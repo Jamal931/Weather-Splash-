@@ -1,6 +1,4 @@
-# Weather-Splash-
 # Weather Splash
-
 Welcome to the Weather Splash app! This application allows users to check the weather of any city by entering the city's name.
 
 ## Features
